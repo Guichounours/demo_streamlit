@@ -1,7 +1,7 @@
 # demo_streamlit
 
 # login
-name : Utilisateur
+username : Utilisateur
 password : utilisateurMDP
 
 # lien vers le site
